@@ -156,7 +156,7 @@ print("Prediction:", prediction)
 
 # 📊 Results
 
-The Logistic Regression model achieved an accuracy score of ~XX% (update with your notebook results).
+The Logistic Regression model achieved an accuracy score of 85.
 
 Dataset cleaned with missing value imputation.
 
